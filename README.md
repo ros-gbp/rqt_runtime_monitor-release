@@ -1,3 +1,26 @@
+## rqt_runtime_monitor (noetic) - 0.5.7-1
+
+The packages in the `rqt_runtime_monitor` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic -t noetic rqt_runtime_monitor` on `Tue, 17 Mar 2020 18:26:41 -0000`
+
+The `rqt_runtime_monitor` package was released.
+
+Version of package(s) in repository `rqt_runtime_monitor`:
+
+- upstream repository: https://github.com/ros-visualization/rqt_runtime_monitor.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.5.7-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.3`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## rqt_rqt_runtime_monitor (melodic) - 0.5.7-0
 
 The packages in the `rqt_rqt_runtime_monitor` repository were released into the `melodic` distro by running `/usr/bin/bloom-release rqt_rqt_runtime_monitor --new-track -r melodic` on `Sat, 28 Apr 2018 18:55:30 -0000`
