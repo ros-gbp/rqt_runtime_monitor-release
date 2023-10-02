@@ -1,3 +1,26 @@
+## rqt_runtime_monitor (noetic) - 0.5.10-1
+
+The packages in the `rqt_runtime_monitor` repository were released into the `noetic` distro by running `/usr/bin/bloom-release rqt_runtime_monitor -r noetic -t noetic` on `Mon, 02 Oct 2023 00:55:44 -0000`
+
+The `rqt_runtime_monitor` package was released.
+
+Version of package(s) in repository `rqt_runtime_monitor`:
+
+- upstream repository: https://github.com/ros-visualization/rqt_runtime_monitor.git
+- release repository: https://github.com/ros-gbp/rqt_runtime_monitor-release.git
+- rosdistro version: `0.5.9-1`
+- old version: `0.5.9-1`
+- new version: `0.5.10-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## rqt_runtime_monitor (noetic) - 0.5.9-1
 
 The packages in the `rqt_runtime_monitor` repository were released into the `noetic` distro by running `/usr/bin/bloom-release rqt_runtime_monitor -r noetic -t noetic` on `Wed, 21 Apr 2021 06:16:19 -0000`
